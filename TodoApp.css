@@ -62,4 +62,5 @@ ul li i{
     text-align:right;
     flex:1;
     cursor: pointer;
+    width: 9;
 }
